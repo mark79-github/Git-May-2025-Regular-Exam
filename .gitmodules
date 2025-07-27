@@ -1,0 +1,9 @@
+[submodule "Multi-Branch-Feature-Development-and-Hotfix-Management"]
+	path = Multi-Branch-Feature-Development-and-Hotfix-Management
+	url = https://github.com/mark79-github/Multi-Branch-Feature-Development-and-Hotfix-Management.git
+[submodule "Automating-Workflow-with-Git-Hooks-and-CI-CD-Integration"]
+	path = Automating-Workflow-with-Git-Hooks-and-CI-CD-Integration
+	url = https://github.com/mark79-github/Automating-Workflow-with-Git-Hooks-and-CI-CD-Integration.git
+[submodule "Recovering-Lost-Work-and-Rewriting-Git-History"]
+	path = Recovering-Lost-Work-and-Rewriting-Git-History
+	url = https://github.com/mark79-github/Recovering-Lost-Work-and-Rewriting-Git-History.git
